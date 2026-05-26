@@ -163,6 +163,10 @@ int main()
             {
                 return 0;
             }
+            default:
+            {
+                cout << "Invalid option!! Please try again!!" << endl;
+            }
             }
         }
     }
